@@ -4,7 +4,7 @@ A research project on simulating the properties of three-dimensional z2 lattice 
 
    Here we apply Metropolis algorithm to simulate the equilibrium properties of the 3D Lattice Gauge Model at different temperature. 
    
-   to.h: header file with defination of arrays, functions etc.
+   to.h: header file with declarations of arrays, functions etc.
    
    to_equ.cxx : functions are defined within this file, such as initialization, Monte Carlo update, taking measurement etc.
    
@@ -16,7 +16,7 @@ A research project on simulating the properties of three-dimensional z2 lattice 
  
    In this part, we employed Simulated Annealing to calculate the dynamical properties of the correlations within the 3D Lattice Gauge     Model.
    
-   corr.h: header file with dininitions of arrays, functions etc.
+   corr.h: header file with declarations of arrays, functions etc.
    
    corr_quench.cxx: functions are defined within this file, such as Monte Carlo update, decreasing temperature, taking measurements etc.
    
