@@ -1,8 +1,8 @@
 //
-//  to.cxx
+//  corr.cxx
 //  
 //
-//  Created by Na Xu on 1/3/14， PTL!
+//  Created by Na Xu on 3/3/14
 //
 //
 
