@@ -6,7 +6,7 @@ A research project on simulating the properties of three-dimensional z2 lattice 
    
    to.h: header file with defination of arrays, functions etc.
    
-   to_equ.cxx : functions are defined within this file.
+   to_equ.cxx : functions are defined within this file, such as initialization, Monte Carlo update, taking measurement etc.
    
    to.cxx: main program, calculating the order parameter, energy for different temperatures with Monte Carlo.
    
@@ -18,8 +18,8 @@ A research project on simulating the properties of three-dimensional z2 lattice 
    
    corr.h: header file with dininitions of arrays, functions etc.
    
-   corr_quench.cxx: functions are defined within this file.
+   corr_quench.cxx: functions are defined within this file, such as Monte Carlo update, decreasing temperature, taking measurements etc.
    
-   corr.cxx: main program, calculating each measurement with simulated annealing.
+   corr.cxx: main program, taking measurement at each step with simulated annealing.
    
    corr_binaverage.cxx: calculating the averages and error bars of the original measurements after running corr_quench.cxx.
