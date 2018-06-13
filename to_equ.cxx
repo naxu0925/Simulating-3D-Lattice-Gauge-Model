@@ -4,7 +4,7 @@
 // spins are in variables spn[i][3],i~[0-nn]
 // By naxu 12/26/2013
 // To Run the code:
-//g++ to_quench.cxx to.cxx
+//g++ to_equ.cxx to.cxx
 
 #include <cstdlib>
 #include <stdlib.h>
