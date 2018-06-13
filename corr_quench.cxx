@@ -1,10 +1,10 @@
-//File: to.cxx
+//File: corr_quench.cxx
 // 1. This is a 3D toric code model with multispin coding and Metropolis algorithm.
 // J1<0, ferromagnetic
 // spins are in variables spn[i][3],i~[0-nn]
-// By naxu 12/26/2013, PTL!
+// By naxu 3/2/2014
 
-//g++ to_quench.cxx to.cxx
+//g++ corr_quench.cxx corr.cxx
 
 #include <cstdlib>
 #include <stdlib.h>
