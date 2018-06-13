@@ -14,7 +14,7 @@ A research project on simulating the properties of three-dimensional z2 lattice 
   
  2) The dynamical properties of 3D Lattice Gauge Model (also called Classic Toric Code model)
  
-   In this part, we employed Simulated Annealing to calculate the dynamical properties of the correlations within the 3D Lattice Gauge Model.
+   In this part, we employed Simulated Annealing to calculate the dynamical properties of the correlations within the 3D Lattice Gauge     Model.
    
    corr.h: header file with dininitions of arrays, functions etc.
    
