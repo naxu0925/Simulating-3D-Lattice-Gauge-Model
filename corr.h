@@ -1,6 +1,6 @@
 //File: corr.h
 //Header file for the class to_quench
-//By Na Xu, 4/23/2014
+//By Na Xu, 2/23/2014
 
 
 #include <strstream>
