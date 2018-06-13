@@ -1,9 +1,7 @@
-//File: to_quench.h
+//File: to.h
 //Header file for the class to_quench
-//By Na Xu, 12/23/2013, Praise God!
+//By Na Xu, 12/23/2013
 
-#ifndef NAXU_TO
-#define NAXU_TO
 #include <strstream>
 #include <string>
 using namespace std;
